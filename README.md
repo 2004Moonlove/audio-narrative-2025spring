@@ -5,8 +5,10 @@ Setting: outside of home, bus stop, home
 | ------------- | ------------- |
 | walking  | record myself  |
 | opendoor  | record myself  |
+| button sound | "iPad button sound effect.mp3" by KentVideoProduction is marked with CC0 1.0. |
 | sound of firework| record myself  |
 | phone ring  | record myself on the pavement |
 | phone call with my parents (separate in parts) | record myself at home |
+| ||
 
 ![alt text](screenshot1_28.png)
