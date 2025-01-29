@@ -1,15 +1,11 @@
 This is the future site of So-and-So's audio narrative. 
-The audio narrative will be a record of my daily life. Starting from brushing my teeth, then preparing the things, walking out of my housing, waiting for the bus, some daily events, ballroom dancing, getting back home, washing face, having a phone call with my parents.
+The audio sound will be a record of going home from outside and looking at the previous record of firework from last year recalling the time celebrating for Chinese new year with my family before. And then I called my parents and having a phone call with them expressing greetings, care, and New Year's wishes.
+Setting: outside of home, bus stop, home
 | needs  | Solution |
 | ------------- | ------------- |
-| the ring sound  | freesound  |
-| brushing teeth  | record myself  |
-| packing my school bag | record myself  |
-| waiting for the bus  | record myself on the pavement |
-| doing work with my  computer | record myself in the library |
-| background sound | record myself  |
-| ballroom dancing  | record myself in the ballroom dancing place |
-| getting back home by bus  | record myself on bus |
-| washing face  | record myself at home |
-| phone call  | record myself with the permission of my parents  |
-| going to bed  | record myself at home |
+| walking  | record myself  |
+| opendoor  | record myself  |
+| sound of firework| record myself  |
+| phone ring  | record myself on the pavement |
+| phone call with my parents | record myself at home |
+
