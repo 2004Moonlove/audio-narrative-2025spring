@@ -9,3 +9,4 @@ Setting: outside of home, bus stop, home
 | phone ring  | record myself on the pavement |
 | phone call with my parents (separate in parts) | record myself at home |
 
+![alt text](screenshot1_28.png)
