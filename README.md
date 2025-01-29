@@ -7,5 +7,5 @@ Setting: outside of home, bus stop, home
 | opendoor  | record myself  |
 | sound of firework| record myself  |
 | phone ring  | record myself on the pavement |
-| phone call with my parents | record myself at home |
+| phone call with my parents (separate in parts) | record myself at home |
 
