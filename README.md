@@ -14,4 +14,7 @@ The audio sound will be a record of going home from outside and looking at the p
 **asset list:**
 iPad button sound effect.mp3 by KentVideoProduction -- https://freesound.org/s/159723/ -- License: Creative Commons 0
 New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0
+**Screenshot:**
+1/28
 ![alt text](screenshot1_28.png)
+2/2
