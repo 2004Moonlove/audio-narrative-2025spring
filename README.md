@@ -6,7 +6,7 @@ The audio sound will be a record of going home from outside and looking at the p
 | walking  | record myself  |
 | opendoor  | record myself  |
 | button sound | "iPad button sound effect.mp3" by KentVideoProduction is marked with CC0 1.0. |
-| Newyear firework with cheers | New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0|
+| Newyear firework with cheers | “New Year's Fireworks Crowd“” by OroborosNZ|
 | sound of firework| record myself  |
 | phone ring  | record myself on the pavement |
 | phone call with my parents (separate in parts) | record myself at home |
