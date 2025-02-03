@@ -11,7 +11,7 @@ The audio sound will be a record of going home from outside and looking at the p
 | phone ring  | record myself on the pavement |
 | phone call with my parents (separate in parts) | record myself at home |
 
-**asset list:**  
+**Asset List:**  
 iPad button sound effect.mp3 by KentVideoProduction -- https://freesound.org/s/159723/ -- License: Creative Commons 0
 New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0
 **Screenshot:**  
