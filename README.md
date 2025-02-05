@@ -10,9 +10,14 @@ The audio sound will be a record of going home from outside and looking at the p
 | sound of firework| record myself  |
 | phone ring  | record myself on the pavement |
 | sound at restaurant |" ambiant sound of breakfast in a calm restaurant 2 /son d'ambiance petit dejeuner restau calme 2" by cecgwen|
-| phone call with my parents (separate in parts) | record myself at home |
+| phone call with my parents (separate in parts) | record myself at home with the permission adding at the end of the sound|
+| Ye Liang's voice | with record permission |
+| Yang Jun's voice | with record permission |
+| Ye Ling's voice | with record permission |
 
-**Asset List:**  
+
+**Asset List:** 
+phone call by Ye Liang, Yang Jun, Ye Ling with the voice permisson in the end of the sound
 iPad button sound effect.mp3 by KentVideoProduction -- https://freesound.org/s/159723/ -- License: Creative Commons 0
 New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0
 ambiant sound of breakfast in a calm restaurant 2 /son d'ambiance petit dejeuner restau calme 2 by cecgwen -- https://freesound.org/s/738914/ -- License: Attribution 4.0
