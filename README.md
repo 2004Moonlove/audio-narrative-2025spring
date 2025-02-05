@@ -4,10 +4,10 @@ The audio sound will be a record of going home from outside and looking at the p
 | needs  | Solution |
 | ------------- | ------------- |
 | walking  | record myself  |
-| bus door | "Bus door 2.wav by chimerical" |
+| bus door | "Bus door 2.wav" by chimerical |
 | opendoor  | record myself  |
 | button sound | "iPad button sound effect.mp3" by KentVideoProduction is marked with CC0 1.0. |
-| Newyear firework with cheers | “New Year's Fireworks Crowd“” by OroborosNZ|
+| Newyear firework with cheers | “New Year's Fireworks Crowd" by OroborosNZ|
 | sound of firework| record myself  |
 | phone ring  | record myself on the pavement |
 | sound at restaurant |" ambiant sound of breakfast in a calm restaurant 2 /son d'ambiance petit dejeuner restau calme 2" by cecgwen|
