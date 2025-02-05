@@ -18,11 +18,11 @@ The audio sound will be a record of going home from outside and looking at the p
 
   
 **Asset List:**   
-phone call by Ye Liang, Yang Jun, Ye Ling with the voice permisson in the end of the sound
-iPad button sound effect.mp3 by KentVideoProduction -- https://freesound.org/s/159723/ -- License: Creative Commons 0
-New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0
-ambiant sound of breakfast in a calm restaurant 2 /son d'ambiance petit dejeuner restau calme 2 by cecgwen -- https://freesound.org/s/738914/ -- License: Attribution 4.0
-Bus door 2.wav by chimerical -- https://freesound.org/s/104276/ -- License: Attribution NonCommercial 4.0
+phone call by Ye Liang, Yang Jun, Ye Ling with the voice permisson in the end of the sound  
+iPad button sound effect.mp3 by KentVideoProduction -- https://freesound.org/s/159723/ -- License: Creative Commons 0  
+New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0  
+ambiant sound of breakfast in a calm restaurant 2 /son d'ambiance petit dejeuner restau calme 2 by cecgwen -- https://freesound.org/s/738914/ -- License: Attribution 4.0  
+Bus door 2.wav by chimerical -- https://freesound.org/s/104276/ -- License: Attribution NonCommercial 4.0  
   
 **Screenshot:**  
 1/28  
