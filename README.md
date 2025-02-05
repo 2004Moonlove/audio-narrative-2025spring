@@ -15,8 +15,8 @@ The audio sound will be a record of going home from outside and looking at the p
 | Yang Jun's voice | with record permission |
 | Ye Ling's voice | with record permission |
 
-
-**Asset List:** 
+  
+**Asset List:**   
 phone call by Ye Liang, Yang Jun, Ye Ling with the voice permisson in the end of the sound
 iPad button sound effect.mp3 by KentVideoProduction -- https://freesound.org/s/159723/ -- License: Creative Commons 0
 New Year's Fireworks Crowd by OroborosNZ -- https://freesound.org/s/141253/ -- License: Creative Commons 0
