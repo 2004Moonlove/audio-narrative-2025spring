@@ -1,5 +1,5 @@
 This is the future site of So-and-So's audio narrative.   
-NEW YEAR  
+# NEW YEAR  
 Spring Festival is one of the most important festival in China when family go back to see each other and gather together from all over the country to celebrate the festival, having dinner together and wait for the new year to come. It is like the Christmas here.  
 This audio sound is a record of I going back home from the bus at the Spring Festival day which is include a record sound of taking bus, walking back home and opening the door with my keys, walking in to my roonm laying on the bed,receiving messages from my family which is videos for the fireworks that they set. And then, I decided to make a phone call to my parents, where you would hear a sound of phone ring and my parents pick up. We expressed our greetings, care, and New Year's wishes to each other. My family call includes my mother, my dad and my aunt. By the end of the sound is their permission for me to use their voice.  
 **Setting:** outside of home, bus stop, home  
