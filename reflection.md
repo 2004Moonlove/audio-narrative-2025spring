@@ -1,4 +1,4 @@
-# Reflection:
+# Reflection:(can also find in readme)
 ## My project:  Spring Festival At Pittsburgh
 **Background:**  
   The Spring Festival, also known as Chinese New Year (CNY), is the most important and widely celebrated traditional festival in China. It marks the beginning of the lunar new year and is a time for family reunions, festive celebrations, and cultural traditions that have been passed down for generations. It is one of the most important festival in China when family go back to visit relatives and friends greeting each other, having New Year Eve reunion Dinner together, watching Spring Festival Gala, setting off fireworks and firecrackers to celebrate the festival, having dinner together and wait for the new year to come. It is like the Christmas here.
