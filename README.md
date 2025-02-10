@@ -33,5 +33,6 @@ Message Ringtone by SergeQuadrado -- https://freesound.org/s/567207/ -- License:
 2/2    
 ![image](https://github.com/user-attachments/assets/f0bd764f-6402-4836-8c76-df96a32796cf)    
 2/10  
-
+![alt text](screenshot_2_10_1.png)    
+![alt text](screenshot_2_10_2.png)  
 
