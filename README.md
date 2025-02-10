@@ -1,5 +1,6 @@
 This is the future site of So-and-So's audio narrative. 
-The audio sound will be a record of going home from outside and looking at the previous record of firework from last year recalling the time celebrating for Chinese new year with my family before. And then I called my parents and having a phone call with them expressing greetings, care, and New Year's wishes.    
+Spring Festival is one of the most important festival in China when family go back to see each other and gather together from all over the country to celebrate the festival, having dinner together and wait for the new year to come. It is like the Christmas here.  
+This audio sound is a record of I going back home from the bus at the Spring Festival day which is include a record sound of taking bus, walking back home and opening the door with my keys, walking in to my roonm laying on the bed,receiving messages from my family which is videos for the fireworks that they set. And then, I decided to make a phone call to my parents, where you would hear a sound of phone ring and my parents pick up. We expressed our greetings, care, and New Year's wishes to each other. My family call includes my mother, my dad and my aunt. By the end of the sound is their permission for me to use their voice.
 **Setting:** outside of home, bus stop, home  
 | needs  | Solution | source | lisence | 
 | ------------- | ------------- | ------------- | ------------- |
@@ -27,8 +28,10 @@ Bus door 2.wav by chimerical -- https://freesound.org/s/104276/ -- License: Attr
 Message Ringtone by SergeQuadrado -- https://freesound.org/s/567207/ -- License: Attribution NonCommercial 3.0 - public domain  
   
 **Screenshot:**  
-1/28  
-![alt text](screenshot1_28.png)  
-2/2  
-![image](https://github.com/user-attachments/assets/f0bd764f-6402-4836-8c76-df96a32796cf)  
+1/28    
+![alt text](screenshot1_28.png)    
+2/2    
+![image](https://github.com/user-attachments/assets/f0bd764f-6402-4836-8c76-df96a32796cf)    
+2/10  
+
 
